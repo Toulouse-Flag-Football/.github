@@ -31,4 +31,5 @@ Feel free to check out our issues page for ideas on how to contribute.
 You can help us promote flag football in Toulouse by joining our training sessions, attending our games, or partnering with the organization. Together, we can continue to grow the flag football community!
 
 ## Contact Us
+- Email: contact@toulouseflagfootball.fr
 - Instagram: [@toulouse.flagfootball](https://instagram.com/toulouse.flagfootball)
